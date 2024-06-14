@@ -11,23 +11,23 @@ export const Projects = () => {
 
   const projects = [
     {
-      title: "ToDo List",
-      description: "Project created with react js and deployed with Azure",
-      imgUrl: projImg1,
-      url: "https://brave-pebble-016008b0f.5.azurestaticapps.net/"
-    },
-    {
       title: "PokeIndex",
       description: "Project created with react js which use the public pokemon api and deployed with Azure",
       imgUrl: projImg3,
-      url: "https://witty-sky-0c3068d0f.5.azurestaticapps.net/"
+      url: "https://white-mud-03cafba0f.5.azurestaticapps.net/"
     },
     {
       title: "Tic Tac Toe",
       description: "Project created with react js and deployed with Azure",
       imgUrl: projImg2,
-      url: "https://witty-sky-0c3068d0f.5.azurestaticapps.net/"
-    },
+      url: "https://happy-sand-0bd46df0f.5.azurestaticapps.net"
+    }, 
+    {
+      title: "ToDo List",
+      description: "Project created with react js and deployed with Azure",
+      imgUrl: projImg1,
+      url: "https://wonderful-rock-08186300f.5.azurestaticapps.net"
+    }
   ];
 
   return (

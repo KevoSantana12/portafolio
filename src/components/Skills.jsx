@@ -59,6 +59,10 @@ export const Skills = () => {
                               <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg"></img>
                               <h5>GitHub</h5>
                             </div>
+                            <div className="item">
+                              <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></img>
+                              <h5>Python</h5>
+                            </div>
                         </Carousel>
                     </div>
                 </div>
