@@ -33,19 +33,23 @@ export const Skills = () => {
                         <Carousel responsive={responsive} infinite={true} className="owl-carousel owl-theme skill-slider">
                             <div className="item">
                                 <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="Image" />
-                                <h5>React JS</h5>
+                                <h5>React</h5>
+                            </div>
+                            <div className="item">
+                                <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="Image" />
+                                <h5>Angular</h5>
                             </div>
                             <div className="item">
                                 <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Image" />
-                                <h5>Java Spring Boot</h5>
+                                <h5>Spring Boot</h5>
                             </div>
                             <div className="item">
                               <img src={meter3}/>
                               <h5>MySQL</h5>
                             </div>
                             <div className="item">
-                                <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="Image" />
-                                <h5>Linux</h5>
+                                <img src="https://www.vectorlogo.zone/logos/docker/docker-tile.svg" alt="Image" />
+                                <h5>Docker</h5>
                             </div>
                             <div className="item">
                                 <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Image" />
