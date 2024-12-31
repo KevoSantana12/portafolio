@@ -22,19 +22,19 @@ export const Projects = () => {
       title: "PokeIndex",
       description: "Project created with react js which use the public pokemon api and deployed with Azure",
       imgUrl: projImg3,
-      url: "https://white-mud-03cafba0f.5.azurestaticapps.net/"
+      url: "https://victorious-moss-052cfcb10.4.azurestaticapps.net/"
     },
     {
       title: "Tic Tac Toe",
       description: "Project created with react js and deployed with Azure",
       imgUrl: projImg2,
-      url: "https://happy-sand-0bd46df0f.5.azurestaticapps.net"
+      url: "https://red-flower-09ccefe10.4.azurestaticapps.net/"
     }, 
     {
       title: "ToDo List",
       description: "Project created with react js and deployed with Azure",
       imgUrl: projImg1,
-      url: "https://wonderful-rock-08186300f.5.azurestaticapps.net"
+      url: "https://thankful-sea-047c35f10.4.azurestaticapps.net/"
     }
     ,
     {
